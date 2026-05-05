@@ -1,9 +1,9 @@
 {
   "name": "claude-in-editor",
-  "displayName": "Claude Terminal",
+  "displayName": "Claude Terminal in Editor",
   "description": "Open a terminal as a main editor tab with a sidebar icon or keyboard shortcut",
   "version": "0.0.1",
-  "publisher": "brettpappas",
+  "publisher": "brett-pappas",
   "repository": {
     "type": "git",
     "url": "https://github.com/brettpappas/terminal-in-editor"
