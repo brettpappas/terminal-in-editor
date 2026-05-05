@@ -3,6 +3,7 @@
   "displayName": "Claude Terminal",
   "description": "Open a terminal as a main editor tab with a sidebar icon or keyboard shortcut",
   "version": "0.0.1",
+  "publisher": "brettpappas",
   "engines": {
     "vscode": "^1.74.0"
   },

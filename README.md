@@ -1,10 +1,10 @@
-# Terminal in Editor
+# Claude in Editor
 
 A VS Code extension that opens a terminal as a main editor tab — not tucked away in the bottom panel.
 
 By default it launches **Claude Code** directly in the editor, giving Claude a full-panel workspace alongside your files.
 
-![Claude Code running in an editor tab](https://raw.githubusercontent.com/brettpappas/terminal-in-editor/main/media/sidebar-icon.svg)
+![Claude Code running in an editor tab](https://raw.githubusercontent.com/brettpappas/terminal-in-editor/main/media/icon.png)
 
 ## Features
 
