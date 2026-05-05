@@ -4,6 +4,10 @@
   "description": "Open a terminal as a main editor tab with a sidebar icon or keyboard shortcut",
   "version": "0.0.1",
   "publisher": "brettpappas",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brettpappas/terminal-in-editor"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
